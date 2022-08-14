@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viktor Welbers</title>
+    <link>https://viktorwelbers.github.io/</link>
+    <description>Recent content on Viktor Welbers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://viktorwelbers.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://viktorwelbers.github.io/about/</link>
+      <pubDate>Sun, 14 Aug 2022 20:28:51 +0200</pubDate>
+      
+      <guid>https://viktorwelbers.github.io/about/</guid>
+      <description>Professional ExperienceLink to heading03/2022 - 09/2022 | Python Backend Developer, COCUS AG, Düsseldorf
+Development &amp;amp; Deployment of applications in AWS Realization of REST-APIs, GraphQL Services &amp;amp; AWS Lambdas in a Vodafone project Focus on clean code, design patterns and unit testing Working in an agile environment (SCRUM) Stack: Python, AWS, Gitlab CI/CD, Serverless, Elasticsearch, Docker, GraphQL, MongoDB 08/2021 - 02/2022 | Research assistant, Bergische Universität Wuppertal, Wuppertal</description>
+    </item>
+    
+  </channel>
+</rss>
