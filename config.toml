@@ -1,0 +1,63 @@
+baseURL = 'http://viktorwelbers.github.io'
+languageCode = 'en-us'
+title = 'Viktor Welbers'
+theme = 'hugo-coder'
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+  author = "Viktor Welbers"
+  info = "Software Engineer"
+  description = "Viktor Welbers personal webiste"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.jpg"
+  favicon_32 = "images/favicon.png"
+  favicon_16 = "images/favicon.png"
+
+  since = 2022
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/ViktorWelbers"
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/viktor-w-1b5484184/"
+[[params.social]]
+  name = "ResearchGate"
+  icon = "fa fa-graduation-cap fa-2x"
+  weight = 3
+  url = "https://www.researchgate.net/profile/Viktor_Welbers/research"
+
+# Menu links
+#[[menu.main]]
+#  name = "Blog"
+#  weight = 1
+#  url  = "posts/"
+[[menu.main]]
+  name = "Resume"
+  weight = 2
+  url = "about/"
