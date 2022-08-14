@@ -65,7 +65,7 @@ a [Hackathon](https://www.wuppertaler-rundschau.de/lokales/wuppertaler-studenten
 , where I developed a prototype for a smart cycling system with my team
 member [Leon Staubach](https://www.linkedin.com/in/leon-staubach-2676a5186/).
 : _Idea_: Use Machine Learning and available data to create round trip routes for cyclists, based on
-POI categories that they are interested in. We used DBSCAN to create clusters of similar POIs, build routes between
+POI categories that they are interested in. We use DBSCAN to create clusters of similar POIs, build routes between
 them and reduce the length of each round trip route to the maximum length that a user had set.
 
 **Programming Languages**

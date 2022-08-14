@@ -1,6 +1,6 @@
 baseURL = 'https://viktorwelbers.github.io/'
 languageCode = 'en-us'
-title = 'Viktors Website'
+title = ""
 theme = 'hugo-coder'
 languagecode = "en"
 defaultcontentlanguage = "en"
