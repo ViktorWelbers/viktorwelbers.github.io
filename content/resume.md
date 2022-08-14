@@ -1,6 +1,6 @@
 +++
 date = '2022-08-14T20:28:51+02:00'
-title = "Resume - Viktor Welbers"
+title = "Resume"
 description = "My Work Experience and Education"
 url = "about/"
 +++
