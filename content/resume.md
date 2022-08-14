@@ -18,8 +18,8 @@ Professional Experience
 08/2021 - 02/2022 | **Research assistant**, Bergische Universität Wuppertal, Wuppertal
 
 * Web development - frontend & backend, in the field of anomaly detection for time series data
-* Developed an approach for the detection of anomalies in time series data via DBSCAN and dynamic time warping.
-* Co-author of a paper accepted at ICEIS
+* Development of an approach for the detection of anomalies in time series data via DBSCAN and dynamic time warping.
+* Co-author of a paper at ICEIS
   2022: [Gideon-TS: Efficient Exploration and Labeling of Multivariate Industrial Sensor Data](https://www.researchgate.net/publication/360486073_Gideon-TS_Efficient_Exploration_and_Labeling_of_Multivariate_Industrial_Sensor_Data)
 * **Stack**: Python, TypeScript, Scikit-learn, Pandas, Docker, Angular, TimescaleDB, PostgreSQL
 
