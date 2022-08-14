@@ -72,7 +72,7 @@ them and reduce the length of each round trip route to the maximum length that a
 
 :   **Python:** I would consider myself an experienced Python Developer. I have worked with Python3 on multiple
 projects, work and
-[personal](https://github.com/ViktorWelbers/image-microservice), in the last 6 years. As a professional this includes
+[personal](https://github.com/ViktorWelbers/image-microservice), in the last 5 years. As a professional this includes
 working as a Python Backend Engineer at **COCUS AG** and as a working student/master's degree candidate at **Aptiv**. I
 have also used Python for research projects as a research assistant
 at **BUW**. Apart from typical frameworks for web-dev like FastAPI or Django this also included the use of data
