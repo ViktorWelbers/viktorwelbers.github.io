@@ -110,7 +110,7 @@ at **BUW** and as a working student at **Aptiv**.
 Miscellaneous
 ----------------------------------------
 
-* Competed in the **WoW European Arena Championship 2017**
+* Competed in the [**WoW European Arena Championship 2017**](https://www.twitch.tv/videos/171025532?t=00h12m30s)
 * Languages:
     * English (business fluent)
     * German (native speaker)
