@@ -7,7 +7,13 @@ url = "about/"
 
 Professional Experience
 ----------
-03/2022 - 09/2022 | **Python Backend Developer**, COCUS AG, Düsseldorf
+
+
+09/2022 - Present | **PhD Student**, Intel Corporation, Munich
+
+* Research topic: Memory optimization via Machine Learning
+
+03/2022 - 08/2022 | **Python Backend Developer**, COCUS AG, Düsseldorf
 
 * Development & Deployment of applications in AWS
 * Realization of REST-APIs, GraphQL Services & AWS Lambdas in a Vodafone project
@@ -41,13 +47,11 @@ Professional Experience
 Education
 ---------
 
-[//]: # (2022 - now)
-
-[//]: # (:   **PhD, Electronic Design Automation**, Technical University of Munich)
+2022 - now
+:   **Dr. Ing., Electronic Design Automation**, Technical University of Munich
 
 2019 - 2022
 :   **M.Sc., Industrial Engineering - Information Technology**, University of Wuppertal
-
 
 2014 - 2019
 :   **B.Eng., Industrial Engineering - Electrical Engineering**, University of Applied Sciences Kiel
