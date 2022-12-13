@@ -7,7 +7,7 @@ url = "about/"
 
 Professional Experience
 ----------
-01/2021 - Present | **Python Backend Developer**, COCUS AG, Düsseldorf
+01/2023 - Present | **Python Backend Developer**, COCUS AG, Düsseldorf
 
 * TBD
 
