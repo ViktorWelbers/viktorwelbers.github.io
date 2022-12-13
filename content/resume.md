@@ -13,7 +13,10 @@ Professional Experience
 
 09/2022 - 12/2022 | **PhD Intern**, Intel Corporation, Munich
 
-* Research topic: Memory optimization via Machine Learning
+* Research topic: Embedded Memory optimization via Machine Learning
+* Development of an approach for uncertainty-aware memory optimization, comparing MC-Dropout, Bayesian
+  Neural Networks, MIMO-Networks and Deep Ensembles.
+* Design and deployment of a AutoML Service using Optuna and RabbitMQ for distributed optimization.
 * **Stack**: Python, Kubernetes, Tensorflow, Docker, Django
 
 03/2022 - 08/2022 | **Python Backend Developer**, COCUS AG, Düsseldorf
