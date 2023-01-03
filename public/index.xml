@@ -13,8 +13,8 @@
       
       <guid>https://viktorwelbers.github.io/about/</guid>
       <description>Professional ExperienceLink to heading01/2023 - Present | Python Backend Developer, COCUS AG, Düsseldorf
-TBD 09/2022 - 12/2022 | PhD Intern, Intel Corporation, Munich
-Research topic: Embedded Memory optimization via Machine Learning Development of an approach for uncertainty-aware memory optimization, comparing MC-Dropout, Bayesian Neural Networks, MIMO-Networks and Deep Ensembles. Design and deployment of a AutoML Service using Optuna and RabbitMQ for distributed optimization. Stack: Python, Kubernetes, Tensorflow, Docker, Django 03/2022 - 08/2022 | Python Backend Developer, COCUS AG, Düsseldorf</description>
+Development &amp;amp; Deployment of applications in Cloud environments (AWS, GCP) Stack: Python, AWS, Gitlab CI/CD, Serverless, Elasticsearch, Docker, GraphQL, MongoDB 09/2022 - 12/2022 | Internship, Intel Corporation, Munich
+Research topic: Embedded Memory optimization via Machine Learning Development of an approach for uncertainty-aware memory optimization, comparing MC-Dropout, Bayesian Neural Networks, MIMO-Networks and Deep Ensembles. Design and deployment of a AutoML Service using Optuna and RabbitMQ for distributed optimization.</description>
     </item>
     
   </channel>
